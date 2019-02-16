@@ -2,7 +2,6 @@
   "name": "webpack-babel-starter",
   "version": "1.0.0",
   "description": "webpack babel starter project",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
@@ -22,11 +21,13 @@
   },
   "homepage": "https://github.com/juancho85/webpack-babel-starter#readme",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.5",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "webpack": "^4.29.4",
-    "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.1.14"
+    "babel-preset-stage-0": "^6.24.1",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.10"
   }
 }
