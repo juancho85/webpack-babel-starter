@@ -1,0 +1,23 @@
+{
+  "name": "webpack-babel-starter",
+  "version": "1.0.0",
+  "description": "webpack babel starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancho85/webpack-babel-starter.git"
+  },
+  "keywords": [
+    "Webpack",
+    "Babel"
+  ],
+  "author": "Juan David Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancho85/webpack-babel-starter/issues"
+  },
+  "homepage": "https://github.com/juancho85/webpack-babel-starter#readme"
+}
