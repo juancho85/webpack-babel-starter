@@ -1,4 +1,5 @@
-const {me} = require('./module')
+// const {me} = require('./module')
+import { me } from './module'
 
 console.log(`I am ${me.name} ${me.lastname}`);
 
